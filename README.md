@@ -14,7 +14,7 @@ Design Pattern
 * Observer design pattern
 
 Sample Log configuration:
-
+```json
   "Logging": {
 
    "FileProvider": {
@@ -28,3 +28,5 @@ Sample Log configuration:
      "Enable": true
    }
  }
+```
+
