@@ -60,3 +60,5 @@ services.AddTransient(typeof(IDevOnCustomLogger), s =>
      }
  }
 ```
+
+Thank you.
