@@ -3,17 +3,17 @@ Logger library that applications can use to log messages.
 
 ## Logger Library
 
-Technology:
+ #### Technology:
 * .Net 6.0
 * C#
 * Dependency Injenction
 * Entity framework 6.0
 * SQL server database (optional)
 
-Design Pattern
+ #### Design Pattern
 * Observer design pattern
 
-Sample Log configuration:
+ #### Sample Log configuration:
 ```json
   "Logging": {
 
