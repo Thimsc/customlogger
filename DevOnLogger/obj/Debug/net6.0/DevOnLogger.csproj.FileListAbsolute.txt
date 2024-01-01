@@ -1,0 +1,12 @@
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\bin\Debug\net6.0\DevOnLogger.deps.json
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\bin\Debug\net6.0\DevOnLogger.dll
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\bin\Debug\net6.0\DevOnLogger.pdb
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\DevOnLogger.csproj.AssemblyReference.cache
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\DevOnLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\DevOnLogger.AssemblyInfoInputs.cache
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\DevOnLogger.AssemblyInfo.cs
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\DevOnLogger.csproj.CoreCompileInputs.cache
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\DevOnLogger.dll
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\refint\DevOnLogger.dll
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\DevOnLogger.pdb
+D:\Girish\Per\jobs\Projects\DevOnLogger - Copy\DevOnLogger\obj\Debug\net6.0\ref\DevOnLogger.dll

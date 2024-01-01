@@ -1,0 +1,23 @@
+[INFO][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test info message
+[ERROR][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test error message
+[FATAL][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test fatal message
+[WARN][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test warning message
+[DEBUG][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test debug message
+[INFO][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test info message
+[ERROR][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test error message
+[FATAL][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test fatal message
+[WARN][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test warning message
+[DEBUG][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test debug message
+[INFO][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test info message
+[ERROR][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test error message
+[FATAL][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test fatal message
+[WARN][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test warning message
+[DEBUG][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test debug message
+[ERROR][Test.TestDemo] - 01-01-2024 12:18:12 : Logger test method
+[ERROR][Test.TestDemo] - 01-01-2024 12:18:12 : Logger test method
+[ERROR][Test.TestDemo] - 01-01-2024 12:18:12 : Logger test method
+[INFO][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test info message
+[ERROR][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test error message
+[FATAL][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test fatal message
+[WARN][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test warning message
+[DEBUG][Test.LoggerTest] - 01-01-2024 12:18:12 : Logger test debug message
