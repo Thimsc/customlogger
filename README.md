@@ -1,5 +1,6 @@
 # LOGGER LIBRARY:
-Logger library that applications can use to log messages. 
+Logger library that applications can use to log messages to multiple targets like File, Database, Console  which can be customized by using configuration.
+Logger library supports to log messages to one or more targets.
 
 ## Logger Library
 
