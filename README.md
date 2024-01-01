@@ -7,7 +7,7 @@ Logger library that applications can use to log messages.
 * .Net 6.0
 * C#
 * Dependency Injenction
-* Entity framework 6.0
+* Entity framework core 6.0
 * SQL server database (optional)
 
  #### Design Pattern
@@ -31,7 +31,7 @@ Logger library that applications can use to log messages.
 ```
 
  #### Test code example:
-```
+```C#
  public class TestDemo
  {
      IDevOnCustomLogger _logger;
