@@ -3,7 +3,6 @@ Logger library that applications can use to log messages.
 
 ## Logger Library
 
-###Prerequisits:
 Technology:
 * .Net 6.0
 * C#
