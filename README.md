@@ -30,6 +30,18 @@ Logger library supports to log messages to one or more targets.
    }
  }
 ```
+ #### Depenency injecting to logger library:
+```C#
+//Dependency Injenction for custom Logging from configuration file
+var logConfig = GetSection("Logging");
+
+services.AddTransient(typeof(IDevOnCustomLogger), s =>
+{
+    var logger = ActivatorUtilities.CreateInstance<DevOnCustomLogger>(s);
+        logger.Configure(logConfig);
+    return logger;
+});
+```
 
  #### Test code example:
 ```C#
@@ -48,3 +60,5 @@ Logger library supports to log messages to one or more targets.
      }
  }
 ```
+
+Thank you.
