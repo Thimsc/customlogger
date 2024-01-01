@@ -13,7 +13,7 @@ Technology:
 Design Pattern
 * Observer design pattern
 
-* Sample Log configuration:
+Sample Log configuration:
 
   "Logging": {
 
